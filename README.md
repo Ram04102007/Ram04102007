@@ -66,15 +66,14 @@ My focus sits at the intersection of **multi-cluster orchestration**, **runtime 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 By The Numbers
 
-<div align="center">
-
-![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ram04102007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&custom_title=Sriram's+GitHub+Stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram04102007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff)
-
-</div>
+| Metric | Value |
+| --- | --- |
+| 🔥 Contributions (last year) | **446** |
+| 📦 Commits in May 2026 | **250+** |
+| ☸️ Active CNCF projects | **6** |
+| 🔬 Core interests | Multi-cluster · GitOps · Observability · Security |
 
 ---
 
