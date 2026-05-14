@@ -1,16 +1,34 @@
-## Hi there 👋
+# sriram-lfx-2026.yaml
+apiVersion: mentorship/v1
+kind: LFXApplication
+metadata:
+  name: sriram-t
+  labels:
+    track: CNCF
+    status: actively-preparing
 
-<!--
-**Ram04102007/Ram04102007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+spec:
+  targetProjects:
+    - name: LitmusChaos
+      goal: Extend fault injection capabilities & improve chaos workflows
 
-Here are some ideas to get you started:
+    - name: KubeArmor
+      goal: Contribute to eBPF-based policy engine & threat detection
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - name: OpenTelemetry
+      goal: Improve Collector receivers, exporters & test infrastructure
+
+  strengths:
+    - Contributor across 6 active CNCF projects
+    - Go fundamentals applied in real OSS codebases
+    - Deep interest in systems programming & Linux internals
+    - 446 contributions last year and growing
+
+  commitment: full
+  availability: immediate
+
+  Let's Connect
+
+📧 sriram.thiruveedhula@gmail.com
+💼 LinkedIn ← https://www.linkedin.com/in/sriram-thiruveedhula
+🐙 github.com/Ram04102007
